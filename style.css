@@ -1,0 +1,23 @@
+p {
+  color: indianred;
+}
+
+ul {
+  background-color: steelblue;
+}
+ol {
+  background-color: cornflowerblue;
+}
+li {
+  color: black;
+}
+a {
+  color: brown;
+}
+h1 {
+  color: blue;
+  font-family: "Helvetica";
+}
+body {
+  background-color: lightblue;
+}
